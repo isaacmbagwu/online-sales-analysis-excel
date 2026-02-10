@@ -98,6 +98,15 @@ Based on the findings, the following recommendations were proposed:
 
 ---
 
+## 📂 Project Files
+
+Due to dataset size, project files are hosted on Google Drive:
+
+🔗 **Download Project Files:**
+[https://drive.google.com/drive/folders/1sCApRsVN-Jd_z5xJmD-PHfxW7FH8LW60]
+
+---
+
 ## 📌 Deliverables
 
 * Excel Analysis File
