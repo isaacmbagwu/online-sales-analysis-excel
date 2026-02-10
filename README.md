@@ -64,9 +64,7 @@ The final dashboard includes:
 
 Below is a snapshot of the interactive Excel dashboard created for this analysis:
 
-![Online Sales Dashboard](dashboard-screenshot.png)
-
-> *Note: Replace **dashboard-screenshot.png** with the actual image file name uploaded to your GitHub repository.*
+![Online Sales Dashboard](Online&Sales&Dashboard.png)
 
 ---
 
@@ -113,7 +111,7 @@ Based on the findings, the following recommendations were proposed:
 **Isaac Mbagwu**
 Mechatronics Engineering Graduate | Data Analyst |
 
-Passionate about leveraging data analytics to drive insights in business, engineering, and smart manufacturing.
+Smart Manufacturing & Industrial Data Solution
 
 ---
 
