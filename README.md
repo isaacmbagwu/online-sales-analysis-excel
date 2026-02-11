@@ -64,7 +64,7 @@ The final dashboard includes:
 
 Below is a snapshot of the interactive Excel dashboard created for this analysis:
 
-![Online Sales Dashboard](Online&Sales&Dashboard.png)
+![Online Sales Dashboard](Online%20Sales%20Dashboard.png)
 
 ---
 
